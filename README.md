@@ -3,5 +3,5 @@ Cthulhu-H-rnchen
 
 Hi thar,
 
-I designed this cthulhu-hoernchen. For the lulz (not for commercial use). Have fun, remix, whatever. (CC BY-NC-SA 4.0)
+I remixed the Posthörnchen (which was designed by Schrutzki) now it's Cthulhu-Hoernchen. For the lulz (not for commercial use). Have fun, remix again and again, whatever. (CC BY-NC-SA 4.0)
 
